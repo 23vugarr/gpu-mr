@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/simple.dir/test.cpp.o -o simple  /usr/lib/x86_64-linux-gnu/libcudart.so /usr/lib/x86_64-linux-gnu/libarrow.so.1700.0.0 -ldl -lrt 

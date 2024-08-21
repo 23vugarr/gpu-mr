@@ -1,0 +1,3 @@
+/home/vugar/gpuProgramming/build/CMakeFiles/simple.dir
+/home/vugar/gpuProgramming/build/CMakeFiles/edit_cache.dir
+/home/vugar/gpuProgramming/build/CMakeFiles/rebuild_cache.dir
